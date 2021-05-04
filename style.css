@@ -22,7 +22,7 @@ img {
 body{
     font-family: 'Karla' , sans-serif;
 }
-.wraper{
+.section{
     width: 100%;
     height: 100%;
 }
@@ -303,9 +303,9 @@ footer nav{
         left: 20px;
     }
     .closebtn img{
-        position: absolute;
-        top: 24px;
-        left: 410px;
+        position: relative;
+        top: 20px;
+        left: 132px;
     }
     .menu-content{
         position: relative;
