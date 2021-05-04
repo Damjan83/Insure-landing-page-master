@@ -390,12 +390,11 @@ footer nav{
         font-size: 34px;
         padding: 0;
         margin: auto;
-        height: 70%;
-        padding: 0 100px;
+        
     }
     .flex{
         display: block;
-        margin-top: 50px;
+        margin-top: 110px;
     }
     .flex div ul{
         text-align: center;
